@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ditradit.github.io/portofolio.github.io/](https://ditradit.github.io/portofolio.github.io/)
 
-- 💬 Ask me about **React, Java, Express**
+- 💬 Ask me about **React, Java, Express, Spring, NodeJs**
 
 - 📫 How to reach me **adiradityap@gmail.com**
 
