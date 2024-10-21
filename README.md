@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radit</h1>
 <h3 align="center">A Web Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning App Development **Flutter**
+- 🌱 I’m currently learning App Development and Go Programming Language
 
 - 👨‍💻 All of my projects are available at [https://ditradit.github.io/portofolio.github.io/](https://ditradit.github.io/portofolio.github.io/)
 
